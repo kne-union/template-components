@@ -1,7 +1,7 @@
 {
   "name": "@kne-template/components",
   "version": "0.1.0",
-  "description": "默认模块初始化模板",
+  "description": "远程组件默认模块初始化模板",
   "scripts": {
     "init": "husky",
     "build:md": "npx @kne/md-doc",
